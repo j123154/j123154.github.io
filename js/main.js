@@ -1,3 +1,5 @@
+let now1 = new Date;
+var HoldLog = console.log;
 document.addEventListener('DOMContentLoaded', function () {
   let blogNameWidth, menusWidth, searchWidth, $nav
   let mobileSidebarOpen = false
