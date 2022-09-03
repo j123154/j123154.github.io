@@ -41,7 +41,7 @@
     <link href="https://j123154.github.io/posts/f1ed.html"/>
     <id>https://j123154.github.io/posts/f1ed.html</id>
     <published>2022-08-17T07:43:54.000Z</published>
-    <updated>2022-08-17T07:59:52.027Z</updated>
+    <updated>2022-09-03T02:56:02.703Z</updated>
     
     
     <summary type="html">大学学习史</summary>
@@ -58,7 +58,7 @@
     <link href="https://j123154.github.io/posts/b152.html"/>
     <id>https://j123154.github.io/posts/b152.html</id>
     <published>2022-08-17T07:40:48.000Z</published>
-    <updated>2022-08-17T08:26:32.368Z</updated>
+    <updated>2022-09-03T03:03:09.379Z</updated>
     
     <content type="html"><![CDATA[<p>Markdown 语法<br>在编写 Markdown 时，博主强烈的推荐给大家一款简洁易用的 Markdown 编辑器 —— Typora</p><p>按照官方的说法就是 简单而强大，它不仅支持原生的语法，也支持对应的快捷键，更重要的是它还可以 实时预览</p><p>这里附上 Typora 的下载地址：<a href="https://www.typora.io/，有兴趣的朋友可以下载来试试">https://www.typora.io/，有兴趣的朋友可以下载来试试</a></p><p>好，下面开始进入正题，介绍一些常用的 Markdown 语法</p><p>（1）标题<br>Markdown 语法：</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>Typora 快捷键：</p><p>Ctrl+1：一级标题</p><p>Ctrl+2：二级标题</p><p>Ctrl+3：三级标题</p><p>Ctrl+4：四级标题</p><p>Ctrl+5：五级标题</p><p>Ctrl+6 ：六级标题</p><p>Ctrl+0：段落</p><p>（2）粗体、斜体、删除线和下划线<br>Markdown 语法：</p><p><em>斜体</em><br><strong>粗体</strong><br><strong><em>加粗斜体</em></strong><br><del>删除线</del></p><p>Typora 快捷键：</p><p>Ctrl+I：斜体</p><p>Ctrl+B：粗体</p><p>Ctrl+U：下划线</p><p>Alt+Shift+5：删除线</p><p>（3）引用块<br>Markdown 语法：</p><blockquote><p>文字引用<br>1<br>Typora 快捷键： Ctrl+Shift+Q</p></blockquote><p>（4）代码块<br>Markdown 语法：</p><p><code>行内代码</code></p><p>​<code>多行代码多行代码​</code><br>Typora 快捷键：</p><p>行内代码：Ctrl+Shift+`</p><p>多行代码：Ctrl+Shift+K</p><p>（5）公式块<br>如何使用MarkDown写一篇博客<br>pdf</p><p>下载<br>Markdown 语法：</p><script type="math/tex; mode=display">数学公式</script><p>Typora 快捷键： Ctrl+Shift+M</p><p>（6）分割线<br>Markdown 语法：</p><p>方法一：—-</p><p>方法二：+++</p><p>方法三：<em>*</em></p><p>（7）列表<br>Markdown 语法：</p><ol><li>有序列表项</li></ol><ul><li>无序列表项</li></ul><ul><li>无序列表项</li></ul><ul><li>无序列表项</li></ul><p>Typora 快捷键：</p><p>有序列表项：Ctrl+Shift+[</p><p>无序列表项：Ctrl+Shift+]</p><p>（8）表格<br>Markdown 语法：</p><div class="table-container"><table><thead><tr><th>表头1</th><th>表头2</th></tr></thead><tbody><tr><td>内容11</td><td>内容12</td></tr><tr><td>内容21</td><td>内容22</td></tr></tbody></table></div><p>Typora 快捷键： Ctrl+T</p><p>（9）超链接<br>Markdown语法：</p><p>方法一：<a href="链接地址" title="链接描述">链接文字</a><br>例如：<a href="https://www.example.com/" title="示例链接">示例链接</a></p><p>方法二：&lt;链接地址&gt;<br>例如：<a href="https://www.example.com/">https://www.example.com/</a></p><p>Typora快捷键： Ctrl+K</p><p>（10）图片<br>Markdown语法：</p><p><img src="图片地址" alt="图片文字" title="图片描述"><br>例如：<img src="https://www.example.com/example.PNG" alt="示例图片" title="示例图片"></p>]]></content>
     
@@ -79,7 +79,7 @@
     <link href="https://j123154.github.io/posts/9398.html"/>
     <id>https://j123154.github.io/posts/9398.html</id>
     <published>2022-08-17T07:19:12.000Z</published>
-    <updated>2022-08-17T07:58:59.747Z</updated>
+    <updated>2022-09-03T02:56:48.286Z</updated>
     
     
     <summary type="html">这是快乐的一天</summary>
@@ -96,7 +96,7 @@
     <link href="https://j123154.github.io/posts/30f.html"/>
     <id>https://j123154.github.io/posts/30f.html</id>
     <published>2022-08-17T07:18:51.000Z</published>
-    <updated>2022-08-17T07:58:22.672Z</updated>
+    <updated>2022-09-03T02:56:25.148Z</updated>
     
     
     <summary type="html">这是快乐的一天</summary>
