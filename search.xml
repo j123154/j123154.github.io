@@ -121,11 +121,11 @@
     
     
     <entry>
-      <title>我的歌单</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p><h2>我的音乐收藏</h2><br><strong>2021/4/26</strong></p><p><h3 id="万物有灵-✨"><br><a href="#万物有灵-✨" class="headerlink" title="万物有灵 ✨" data-pjax-state=""></a>万物有灵 ✨</h3></p><div class="aplayer no-destroy no-reload aplayer-withlrc aplayer-withlist" data-id="7692780743" data-server="tencent" data-type="playlist" data-order="list" data-preload="auto" data-autoplay="false" data-mutex="true"></div><div class="aplayer" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mutex="true" data-preload="auto" data-theme="#3F51B5"></div>]]></content>
+        <content type="html"><![CDATA[<p>前端<br>大学<br>生活</p>]]></content>
       
     </entry>
     
@@ -143,11 +143,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>我的歌单</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<p>前端<br>大学<br>生活</p>]]></content>
+        <content type="html"><![CDATA[<p><h2>我的音乐收藏</h2><br><strong>2021/4/26</strong></p><p><h3 id="万物有灵-✨"><br><a href="#万物有灵-✨" class="headerlink" title="万物有灵 ✨" data-pjax-state=""></a>万物有灵 ✨</h3></p><div class="aplayer no-destroy no-reload aplayer-withlrc aplayer-withlist" data-id="7692780743" data-server="tencent" data-type="playlist" data-order="list" data-preload="auto" data-autoplay="false" data-mutex="true"></div><div class="aplayer" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mutex="true" data-preload="auto" data-theme="#3F51B5"></div>]]></content>
       
     </entry>
     
